@@ -1,4 +1,4 @@
-# PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY
+# PCA: EXP-4 MATRIX-ADDITION-WITH-UNIFIED-MEMORY
 
 <h3>NAME: ARAVINDAN T</h3>
 <h3>REGISTER NO : 2305001003</h3>
@@ -38,7 +38,7 @@ Allocate Host Memory
 22.	Reset the device using cudaDeviceReset and return from the main function.
 
 ## PROGRAM:
-```
+```cpp
 %%writefile unifmem1.cu
 #include <stdio.h>
 #include <cuda_runtime.h>
